@@ -1,0 +1,27 @@
+h4{
+    color: green;
+}
+p{
+    color: aqua;
+}
+h1{
+    color: brown;
+    background-color: yellow;
+}
+h3{
+    color: blue;
+}
+#color-rojo{
+    color: red;
+}
+.viernes{
+    color: blueviolet;
+}
+body{
+    background-image: url(https://c8.alamy.com/compes/dg81yt/el-curioso-caso-de-benjamin-button-2008-paramount-pelicula-de-warner-bros-con-cate-blanchett-y-brad-pitt-dg81yt.jpg);
+    background-size: cover;
+}
+.autor{
+    color: burlywood;
+    background-color: green;
+}
